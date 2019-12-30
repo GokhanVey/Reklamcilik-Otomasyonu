@@ -1,0 +1,21 @@
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\bin\Release\ReklamDatabase.mdf
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\bin\Release\ReklamDatabase_log.ldf
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\bin\Release\Reklamcılık Otomasyonu.exe.config
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\bin\Release\Reklamcılık Otomasyonu.exe.manifest
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\bin\Release\Reklamcılık Otomasyonu.application
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\bin\Release\Reklamcılık Otomasyonu.exe
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\bin\Release\Reklamcılık Otomasyonu.pdb
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\bin\Release\tr\Reklamcılık Otomasyonu.resources.dll
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık Otomasyonu.csprojAssemblyReference.cache
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık_Otomasyonu.adsScreen.resources
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık_Otomasyonu.mainScreen.resources
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık_Otomasyonu.clientsScreen.resources
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık_Otomasyonu.Properties.Resources.resources
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık_Otomasyonu.publicationsScreen.resources
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık_Otomasyonu.mainScreen.tr.resources
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık Otomasyonu.csproj.GenerateResource.cache
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\tr\Reklamcılık Otomasyonu.resources.dll
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık Otomasyonu.exe.manifest
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık Otomasyonu.application
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık Otomasyonu.exe
+D:\Programing\VS2019\Veri Tabanı Yönetim Sistemleri\Reklamcılık Otomasyonu\obj\Release\Reklamcılık Otomasyonu.pdb
